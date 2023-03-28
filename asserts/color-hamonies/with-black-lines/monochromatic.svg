@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="94" viewBox="0 0 286 94">
+  <defs>
+    <clipPath id="clip-monochromatic">
+      <rect width="286" height="94"/>
+    </clipPath>
+  </defs>
+  <g id="monochromatic" clip-path="url(#clip-monochromatic)">
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(171 32)" fill="red"/>
+    <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(218 32)" fill="#ba0000"/>
+    <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(80 32)" fill="#ff5454"/>
+    <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(124 32)" fill="#c24444"/>
+    <ellipse id="Ellipse_17" data-name="Ellipse 17" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(36 32)" fill="#fc8585"/>
+  </g>
+</svg>

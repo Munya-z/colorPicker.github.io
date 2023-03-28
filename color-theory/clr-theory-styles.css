@@ -1,0 +1,131 @@
+
+    *{
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+
+    }
+
+    body{
+        margin-left: 200px;
+    }
+
+    nav{
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: black;
+        width: 200px;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        color: white;
+        align-items: center;
+        
+
+    }
+
+    .logo{
+        width:100%;
+       display:flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 1em;
+
+    }
+
+    .logo-img{
+        width: 5em;
+        height: 3em
+    }
+
+    .exit{
+        font-size:2em;
+        text-decoration: none;
+        color:white;
+        
+    }
+    .exit:hover{
+        color:lightgreen;
+    }
+
+    ul{
+        margin: 4em 0;
+        list-style: none;
+    }
+
+    li{
+        padding: 1em ;
+        opacity: 0.7;
+    }
+    li.active{
+        position: relative;
+        opacity: 1;
+    }
+
+    li.active::before{
+        content: '';
+        position: absolute;
+        width:10px ;
+        height: 1.3em;
+        left: -1em;
+        background-color: rgb(122, 193, 63);
+    }
+
+    section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-width: 300pxpx;
+        height: 100vh;
+        max-width: 80vw;
+        /* /* border: 2px solid;  */
+    }
+
+    .text-container{
+        position: relative;
+        top: 160px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    h1{
+        position:relative;
+        width: 30ch;
+        text-align: center;
+        text-transform: capitalize;
+        margin-bottom: 1em;
+    }
+
+    h1::before{
+        position: absolute;
+        content: '';
+        background-color: rgba(124, 177, 131, 0.213);
+        width:30px ;
+        z-index: -1;
+        height: 2em;
+        margin: -10px auto;
+        transform: rotateZ(34deg);
+    }
+    h1::after{
+        position: absolute;
+        content: '';
+        background-color: rgba(177, 176, 124, 0.213);
+        width:30px ;
+        z-index: -1;
+        height: 4em;
+        margin: -40px -70px;
+        transform: rotateZ(34deg);
+    }
+
+    p{
+        padding:0.5em  2em;
+        max-width:50ch;
+        line-height: 1.5;
+    }
+    .mode-swither{
+        position: fixed;
+        right: 20px;
+        top: 40px;
+    }

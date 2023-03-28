@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="290" viewBox="0 0 286 290">
+  <defs>
+    <clipPath id="clip-split-complementary">
+      <rect width="286" height="290"/>
+    </clipPath>
+  </defs>
+  <g id="split-complementary" clip-path="url(#clip-split-complementary)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-85 -59)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(211 86)" fill="red"/>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(158 101)" fill="#ff0059"/>
+      <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(122 139)" fill="#e600ff"/>
+      <path id="Path_7" data-name="Path 7" d="M16.5,0C25.613,0,33,6.716,33,15S25.613,30,16.5,30,0,23.284,0,15,7.387,0,16.5,0Z" transform="translate(106 194)" fill="#8000ff"/>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(122 249)" fill="#2000ff"/>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(158 280)" fill="#09f"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(264 101)" fill="#ff5e00"/>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(301 139)" fill="#df0"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(318 194)" fill="#7bff00"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(301 249)" fill="#1eff00"/>
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(264 280)" fill="#00ff9d"/>
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(211 292)" fill="aqua"/>
+      <line id="Line_1" data-name="Line 1" y2="70" transform="translate(227.5 139.5)" fill="none" stroke="#fff" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" y1="49" x2="31" transform="translate(186.5 224)" fill="none" stroke="#fff" stroke-width="6"/>
+      <line id="Line_3" data-name="Line 3" x2="31" y2="50" transform="translate(233.5 224.5)" fill="none" stroke="#fff" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

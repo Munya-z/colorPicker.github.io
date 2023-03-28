@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="290" viewBox="0 0 286 290">
+  <defs>
+    <clipPath id="clip-cold">
+      <rect width="286" height="290"/>
+    </clipPath>
+  </defs>
+  <g id="cold" clip-path="url(#clip-cold)">
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(118 47)" fill="red"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(65 62)" fill="#ff0059"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(29 100)" fill="#e600ff"/>
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(13 155)" fill="#8000ff"/>
+    <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(29 210)" fill="#2000ff"/>
+    <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(65 241)" fill="#09f"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(171 62)" fill="#ff5e00"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(208 100)" fill="#df0"/>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(225 155)" fill="#7bff00"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(208 210)" fill="#1eff00"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(171 241)" fill="#00ff9d"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(118 253)" fill="aqua"/>
+    <line id="Line_4" data-name="Line 4" x1="43.098" y1="32.22" transform="translate(160.5 179.5)" fill="none" stroke="#fff" stroke-width="5"/>
+    <line id="Line_2" data-name="Line 2" y1="52.34" x2="31.088" transform="translate(89.412 186.5)" fill="none" stroke="#fff" stroke-width="6"/>
+    <line id="Line_3" data-name="Line 3" x2="27" y2="47.34" transform="translate(148.5 191.5)" fill="none" stroke="#fff" stroke-width="6"/>
+    <line id="Line_6" data-name="Line 6" x1="47" y2="7" transform="translate(51.5 163.5)" fill="none" stroke="#fff" stroke-width="6"/>
+    <line id="Line_8" data-name="Line 8" x1="1" y2="57" transform="translate(134 191)" fill="none" stroke="#fff" stroke-width="6"/>
+    <line id="Line_7" data-name="Line 7" x2="53" y2="26" transform="translate(107.482 175.909) rotate(112)" fill="none" stroke="#fff" stroke-width="6"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="290" viewBox="0 0 286 290">
+  <defs>
+    <clipPath id="clip-anologous">
+      <rect width="286" height="290"/>
+    </clipPath>
+  </defs>
+  <g id="anologous" clip-path="url(#clip-anologous)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-85 -64)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(211 86)" fill="red"/>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(158 101)" fill="#ff0059"/>
+      <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(122 139)" fill="#e600ff"/>
+      <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(106 194)" fill="#8000ff" stroke="#707070" stroke-width="1">
+        <ellipse cx="16.5" cy="15" rx="16.5" ry="15" stroke="none"/>
+        <ellipse cx="16.5" cy="15" rx="16" ry="14.5" fill="none"/>
+      </g>
+      <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(122 249)" fill="#2000ff" stroke="#707070" stroke-width="1">
+        <ellipse cx="16.5" cy="15" rx="16.5" ry="15" stroke="none"/>
+        <ellipse cx="16.5" cy="15" rx="16" ry="14.5" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(158 280)" fill="#09f"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(264 101)" fill="#ff5e00"/>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(301 139)" fill="#df0"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(318 194)" fill="#7bff00"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(301 249)" fill="#1eff00"/>
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(264 280)" fill="#00ff9d"/>
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="16.5" cy="15" rx="16.5" ry="15" transform="translate(211 292)" fill="aqua"/>
+      <line id="Line_1" data-name="Line 1" x1="3" y2="70" transform="translate(220.5 131.5)" fill="none" stroke="#000" stroke-width="5"/>
+      <line id="Line_4" data-name="Line 4" x1="35" y2="63" transform="translate(231 139)" fill="none" stroke="#000" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x1="74" y2="1" transform="translate(234 216)" fill="none" stroke="#000" stroke-width="6"/>
+      <line id="Line_3" data-name="Line 3" y1="37" x2="57" transform="translate(237 169)" fill="none" stroke="#000" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
